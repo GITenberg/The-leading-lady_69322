@@ -1,0 +1,30 @@
+_repo: The-leading-lady_69322
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Bonner, Geraldine
+    birthdate: 1870
+    deathdate: 1930
+    gutenberg_agent_id: '3132'
+    url: http://www.gutenberg.org/2009/agents/3132
+    wikipedia: https://en.wikipedia.org/wiki/Geraldine_Bonner
+description: ''
+gutenberg_issued: '2022-11-10'
+identifiers:
+  gutenberg: '69322'
+language: en
+pgterms:marc904: https://babel.hathitrust.org/cgi/pt?id=uc1.249564&view=1up&seq=11&skin=2021
+pgterms:marc905: 20220214082831bonner
+pgterms:marc906: '1926'
+pgterms:marc907: us
+production_note: D A Alexander and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by University of California
+  libraries)
+publication_note: 'United States: The Bobbs-Merrill Company,1926.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The leading lady
+url: http://www.gutenberg.org/ebooks/69322
